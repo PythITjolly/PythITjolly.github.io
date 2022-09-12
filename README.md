@@ -6,20 +6,20 @@ _I used to say I'm too old for school but life seems so boring doing the same ro
 
 
 ## [Ⓐⓑⓞⓤⓣ](https://jolly20220861.github.io/about)
-Jolly’s Homepage is a documentation of the learning I gained from IT5016 Software Development Fundamentals. A weekly reflection journal is created to train and practice my programming knowledge. At the same time monitor my progress while creating a reference for future use as I advance in my developing skills. This is also intended to be of help to aspiring developers who are just starting their journey. It’s my pleasure to pay it forward by sharing the mastery I have acquired and be part of your success in one way or another.
+PythITjolly is a constant reminder to never fight response but embrace the changes in the information technology and improve in it with a growth mindset. It is a documentation of the learning  gained from IT5016 Software Development Fundamentals. A weekly reflection journal is created to train and practice the programming knowledge; at the same time, monitor the progress while creating a reference for future use while advancing the developing skills. This is also intended to be of help to aspiring developers who are just starting their journey. It’s a pleasure to pay it forward by sharing the mastery acquired and be part of ones success in one way or another.
 
-Please don’t hesitate to check out my weekly improvement and share with me your thoughts.
+Please don’t hesitate to check out the weekly improvement and share your thoughts.
 
 
 ## [pǝs∩ sǝpoƆ](https://jolly20220861.github.io/Codes)
 
-Compilation of the codes I learned and used along the way.
+Compilation of the codes learned and used along the way.
 
 
 ## [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://jolly20220861.github.io/journals)
 
-My Software Development memorabilia; is intended to aid my learning journey and at the same time help others who are aspiring to be part of the IT world. Don't hesitate to visit and you might find something that will be of interest to you.
+A Software Development memorabilia; is intended to aid the learning journey and at the same time help others who are aspiring to be part of the IT world. Don't hesitate to visit as you might find something that will be of interest to you.
 
 
 
-#### [Homepage](PythITjolly.github.io)   | [About](https://PythITjolly.github.io/about)   | [Codes Used](https://PythITjolly.github.io/Codes)   | [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://PythITjolly.github.io/journals)
+#### [Homepage](PythITjolly.github.io)   | [About](https://PythITjolly.github.io/about)   | [Codes Used](https://PythITjolly.github.io/Codes)   | [Research Repository](https://PythITjolly.github.io/journals)
