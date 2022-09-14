@@ -104,4 +104,4 @@ Thank God, the discussion is over.  I appreciate Sarmad's lecture. I know I und
 <br>
 
 
-###### [Week 1: Introduction with Scratch](PythITjolly.github.io/Week1)   | [Week 2: GitHub](https://PythITjolly.github.io/Week3)   | [Week 4: Art vs Programming](https://PythITjolly.github.io/Week4)
+###### [Week 1: Introduction with Scratch](PythITjolly.github.io/Week1)   | [Week 2: GitHub](https://PythITjolly.github.io/Week3)   |  [Week 4: Unexpect The Expected](https://PythITjolly.github.io/Week4)   |  [Week 5: Agile](https://PythITjolly.github.io/Week5)       |     [Week 6: Python_Koans](https://PythITjolly.github.io/Week6)
