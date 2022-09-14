@@ -43,9 +43,14 @@ Encountering Scratch for the first time is a bit challenging. I followed the ins
 
 #### Learning:
 
-To be able to copy the respondent's answer, set the variable and concatenate. I set the variable name = answer.  The tutorial showed how I can create a background which is easy as I only have to choose from the options provided.  I learned that you can add a sprite (character) to make an animated conversation which I tried. 
+To be able to copy the respondent's answer, set the variable and concatenate. I set the variable name = answer which I joined with my own text "It's nice to meet you, (name)".  
+![image](https://user-images.githubusercontent.com/110364984/187790306-142e37de-f697-45ab-8b48-ae127a719a61.png)
+
+The tutorial showed how I can create a background which is easy as I only have to choose from the options provided.  I learned that you can add a sprite (character) to make a conversation which I tried. 
 
 I was able to make my first "Hello World" project.  I thought to myself, I can handle it so I looked forward to making it to the next session.
+<br>
+
 <br>
 
 ###### Reference:
