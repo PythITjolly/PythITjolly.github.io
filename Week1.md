@@ -33,14 +33,6 @@ Project is not showing? Please click the link. [Hello World in Scratch](https://
 
 <br>
 
-## 🆁🅴🅵🅻🅴🅲🆃🅸🅾🅽:
-
-The first day of school was both exciting and nerve-wracking.  I am excited because it's the start of a new learning adventure, meeting new people and making friends, but at the same time, nervous because I don't have any background about the course I'm taking. Will I be able to make it? Is it going to be difficult?
-
-<br>
-
-Encountering Scratch for the first time is a bit challenging. I followed the instructions and tried to work my way. It's funny and a shame when I asked my kids if they know what Scratch is all about to which they all said yes.  They explained to me that it's a site used by those who want to learn about programming. My second son showed it to me and explained some basic navigation. He reminded and reiterated to me _watch the tutorial_ to make it easy for me.
-
 #### Learning:
 
 To be able to copy the respondent's answer, set the variable and concatenate. I set the variable name = answer which I joined with my own text "It's nice to meet you, (name)".  
@@ -49,6 +41,18 @@ To be able to copy the respondent's answer, set the variable and concatenate. I 
 The tutorial showed how I can create a background which is easy as I only have to choose from the options provided.  I learned that you can add a sprite (character) to make a conversation which I tried. 
 
 I was able to make my first "Hello World" project.  I thought to myself, I can handle it so I looked forward to making it to the next session.
+
+<br>
+
+## 🆁🅴🅵🅻🅴🅲🆃🅸🅾🅽:
+
+The first day of school was both exciting and nerve-wracking.  I am excited because it's the start of a new learning adventure, meeting new people and making friends, but at the same time, nervous because I don't have any background about the course I'm taking. Will I be able to make it? Is it going to be difficult?
+
+<br>
+
+Encountering Scratch for the first time is a bit challenging. I followed the instructions and tried to work my way. It's funny and a shame when I asked my kids if they know what Scratch is all about to which they all said yes.  They explained to me that it's a site used by those who want to learn about programming. My second son showed it to me and explained some basic navigation. He reminded and reiterated to me _watch the tutorial_ to make it easy for me.
+
+
 <br>
 
 <br>
