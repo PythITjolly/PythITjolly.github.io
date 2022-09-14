@@ -16,7 +16,6 @@ In today's corporate world, graph is widely used by big companies such as Google
 
 **What is Video-graph?**
 
->br>
 
 #### Learning:
 
