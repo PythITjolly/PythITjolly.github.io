@@ -1,4 +1,4 @@
-#### [Homepage](https://jolly20220861.github.io/)   |  [About](https://jolly20220861.github.io/about) | [Codes Used](https://jolly20220861.github.io/Codes) | [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://jolly20220861.github.io/journals)
+#### [Homepage](https://PythITjolly.github.io/)   |  [About](https://PythITjolly.github.io/about) | [Codes Used](https://PythITjolly.github.io/Codes) | [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://PythITjolly.github.io/journals)
 
 # 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 
@@ -21,6 +21,14 @@
 **PULL** - fetching updates or submit the changes made to the original project or repository 
 <br>
 
+#### Learning:
+
+Today, I learned to upload an image; just copy the image from any source and paste it in the markdown. You can also click and drag the phtos if the image is locally saved in your computer. I found out how to create links to add a page by writing the title of the link inside [] and use insert the link in the () .  My favourite mark down aside from the different headers are underscore before and after the word or sentence to  _italicise_ and the two asterisk for **bold** letters.  By the way my youngest who's only 10 taught me to use the font changer site. He typed Weekly Reflection, choose the font, copied it from the font changer and pasted it to my GitHub .md file. Voila! My repository now has a life! :)
+
+Hmmm... I can try to move further more and see how deep I can go....
+
+<br>
+
 ## 🆁🅴🅵🅻🅴🅲🆃🅸🅾🅽:
 
 The first day is testing the water while the second day is dipping slowly into the water.  A new platform to learn! I was able to follow the instructions on how to use GitHub but at the back of my mind, what is this!?! What will I write? How will this be useful for me? Am I gonna drown soon in the shallow level of water?
@@ -30,4 +38,4 @@ I read the module and did my own research. I was able to create my repository in
 
 <br>
 
-###### [Week 1: Introduction with Scratch](jolly20220861.github.io/Week1)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   | [Week 4: Art vs Programming](https://jolly20220861.github.io/Week4)
+###### [Week 1: Introduction with Scratch](PythITjolly.github.io/Week1)   | [Week 3: Python](https://PythITjolly.github.io/Week3)   |  [Week 4: Unexpect The Expected](https://PythITjolly.github.io/Week4)   |  [Week 5: Agile](https://PythITjolly.github.io/Week5)       |     [Week 6: Python_Koans](https://PythITjolly.github.io/Week6)
