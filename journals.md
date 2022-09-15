@@ -1,6 +1,7 @@
-#### [𝓗𝓸𝓶𝓮𝓹𝓪𝓰𝓮](https://PythITjolly.github.io/)   |  [Ⓐⓑⓞⓤⓣ](https://PythITjolly.github.io/about) | [pǝs∩ sǝpoƆ](https://PythITjolly.github.io/Codes) | [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://PythITjolly.github.io/journals)
+#### [𝓗𝓸𝓶𝓮𝓹𝓪𝓰𝓮](https://PythITjolly.github.io/)   |  [Ⓐⓑⓞⓤⓣ](https://PythITjolly.github.io/about) | [pǝs∩ sǝpoƆ](https://PythITjolly.github.io/Codes) |
 
-# 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
+# Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈
+### 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 A Software Development memorabilia: is intended to aid the learning journey and at the same time help others who are aspiring to be part of the IT world. Don't hesitate to visit as you might find something that will be of interest to you.
 
 ## [Week 1: Introduction with Scratch](https://PythITjolly.github.io/Week1)
