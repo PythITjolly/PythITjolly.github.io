@@ -16,10 +16,11 @@ In today's corporate world, graph is widely used by big companies such as Google
 
 **What is Video-graph?**
 
-The process of capturing on electronic media or device the moving objects or images.  Below is an example:
+The process of capturing on electronic media or device the moving objects or images.  Below is an example of the videograph activity with my kids:
 
 https://user-images.githubusercontent.com/112613788/190404827-c37828e3-e039-4f28-8004-e5d3c5322a7b.mp4
 
+###### Video is not showing? Please click [here](https://https://PythITjolly.github.io/Videography)
 
 **What is Programming?**
 
