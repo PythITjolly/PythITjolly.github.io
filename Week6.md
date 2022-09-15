@@ -4,7 +4,7 @@
 
 ## Week 6: **Python_Koans**
 
-### WHat is **_Python_Koans_**
+### What is **_Python_Koans_**
 
 We have learned from Week 3 that **_Python_** is a high-level programming language with dynamic semantics.  So what is Python_koans?  It's not another programming language but instead an interactive tutorial that consists of different puzzles and exercises that are created intended to reinforce the learning acquired in the programming language construct.  You need to pass each tests to move on to the next level.
 
