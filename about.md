@@ -1,4 +1,4 @@
-#### [Homepage](PythITjolly.github.io)   | [About](https://PythITjolly.github.io/about)   | [Codes Used](https://PythITjolly.github.io/Codes)   | [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://PythITjolly.github.io/journals)
+#### [Homepage](PythITjolly.github.io)   |   [Codes Used](https://PythITjolly.github.io/Codes)   | [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://PythITjolly.github.io/journals)
 
 # 𝓐𝓫𝓸𝓾𝓽
 
