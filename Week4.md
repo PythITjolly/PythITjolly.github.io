@@ -16,17 +16,22 @@ In today's corporate world, graph is widely used by big companies such as Google
 
 **What is Video-graph?**
 
+The process of capturing on electronic media or device the moving objects or images.  Below is an example:
+
+![video]https://www.dropbox.com/s/dwtz7idqba2k6du/Videography.mov?dl=0
+
+**What is Programming?**
+
+The act or process of writing computer programs such as python, java, html and a whole lot more.
 
 #### Learning:
 
-What's my take for today?  I've known **graph** since I was in primary erhaps. A visual representation of data but in today's modern world, it is widely used in business not only to see how the sales are going up or down but also to learn more about the customers through what we call _**Knowledge graph**_. It's the system used by most known companies like netflix, microsoft or even the health sector to map information and study the correlation of all data.  This is the reason most Netflix can suggest movies that you will probably like. I've learned about a new technical term **DAG (Directed Acyclic Graph)** which is a little complicated but by looking at the word itself it's a graph that is directed but has no direct cycle; an open chain structure of information. Lastly, I encountered **Relational Aesthetics** where an artists exhibit their work non in the conventional te where artworks are just being looked at.  With the relational art, the audience participates that sometimes it confuses whether they are audience or performer. What is the connection f all of these with the **video-graph** activity? We did a relational art where all the partiipants are considered artists.  If we dig deeper and wrote down all the observations, we can come up with a **DAG** that can also obe used for knowledge graph identifying the correlation of each participants to one another.
+What's my take for today?  I've known **graph** since I was in primary erhaps. A visual representation of data but in today's modern world, it is widely used in business not only to see how the sales are going up or down but also to learn more about the customers through what we call _**Knowledge graph**_. It's the system used by most known companies like netflix, microsoft or even the health sector to map information and study the correlation of all data.  This is the reason most Netflix can suggest movies that you will probably like. I've learned about a new technical term **DAG (Directed Acyclic Graph)** which is a little complicated but by looking at the word itself it's a graph that is directed but has no direct cycle; an open chain structure of information. Lastly, I encountered **Relational Aesthetics** where an artists exhibit their work non in the conventional te where artworks are just being looked at.  With the relational art, the audience participates that sometimes it confuses whether they are audience or performer. What is the connection f all of these with the **video-graph** activity? We did a relational art where all the participants are considered artists.  If we dig deeper and wrote down all the observations, we can come up with a **DAG** that can also obe used for knowledge graph identifying the correlation of each participants to one another.
 
 Akin to the story that was shared, to survive, we have to understand not to resist but to go with the flow and observe on the things around us so we can see what we can grasp on to help us get through. I don't have a project yet in mind but I know sooner or later the idea will pop for I don't have to think of something different and great but, a simple graph around that will allow my creativity to work. 
 
 <br>
 
-
-**What is Programming?**
 
 ## 🆁🅴🅵🅻🅴🅲🆃🅸🅾🅽:
 
