@@ -19,7 +19,7 @@ In today's corporate world, graph is widely used by big companies such as Google
 The process of capturing on electronic media or device the moving objects or images.  Below is an example of the videograph activity with my kids:
 
 ![IMG_2935](https://user-images.githubusercontent.com/112613788/190411380-0958a625-9583-419f-a773-0ad560adc680.jpg)
-###### _Video is not playing? Please click the link below._
+###### _Video is not playing? Please right click the link below and open in new tab._
 [https://user-images.githubusercontent.com/112613788/190404827-c37828e3-e039-4f28-8004-e5d3c5322a7b.mp4](https://github.com/PythITjolly/PythITjolly.github.io/blob/main/Videography.md)
 
 
