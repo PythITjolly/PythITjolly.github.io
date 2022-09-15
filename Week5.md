@@ -21,7 +21,7 @@ This method allows the company to produce a product for testing with minimal cos
 
 I asked my kids and their Dad to do the spaghetti and marshmallow activity with me being the facilitator.  It was a great bonding experience and a good way to share with them my learning as they have their own realisation gained from the activity.  See pictures below.  Aren't they so serious? 😄
 
-![MVP1](https://user-images.githubusercontent.com/112613788/190293747-28f31db8-eadd-4921-b9f3-652389846a25.jpg)  ![mvp2](https://user-images.githubusercontent.com/112613788/190293785-0c93ce59-dd45-4eec-ba82-4e1b5504f70a.jpg)
+![image](https://user-images.githubusercontent.com/112613788/190305313-6f182826-f46b-42c8-8b10-1014b540370a.png)
 
 
 During these past few weeks of learing, there is a critical voice in my head telling me everything is difficult. It's not my specialty. I believe what it said but I counter it by veering away from the thought that it is difficult.  I reminded myself of the words of wisdom I always share with my kids when they are challenged with a task: _”If you think it’s difficult, the more that it will be difficult."_
