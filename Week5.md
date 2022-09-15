@@ -1,4 +1,4 @@
-### [Homepage](PythITjolly.github.io)   | [About](https://PythITjolly.github.io/about)   | [Codes Used](https://PythITjolly.github.io/Codes)  | [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://PythITjolly.github.io/journals)
+#### [𝓗𝓸𝓶𝓮𝓹𝓪𝓰𝓮](https://PythITjolly.github.io/)   |  [Ⓐⓑⓞⓤⓣ](https://PythITjolly.github.io/about) | [pǝs∩ sǝpoƆ](https://PythITjolly.github.io/Codes) | [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://PythITjolly.github.io/journals)
 
 # 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 
@@ -15,13 +15,16 @@ This method allows the company to produce a product for testing with minimal cos
 
 #### Learning:
 
-Today's discovery is **Polymorphism** which means having many forms.  In programming, it’s the ability of a message to be presented or displayed in different structure. Like the materials used in the activity, it were used in various ways all arrivig at the same goal, have the tallest tower. The activity s also a way of creting **MVP (Minimum Variable Product)**; a way of a team to come up with a product that has the basic feature that they think will be useful for the users to identify how the customer will behave in the launch of the product. Will they patronise it? If yes, are the features enough or they're still looking for something more? If no, why? What needs tdo they have that must be met so they can accept the product being launched.
+Today's discovery is **Polymorphism** which means having many forms.  In programming, it’s the ability of a message to be presented or displayed in different structure. Like the materials used in the activity, it were used in various ways all arrivig at the same goal, have the tallest tower. The activity is also a way of creating **MVP (Minimum Variable Product)**; the team came up with a product that has the basic feature that they think will be useful for the users to identify how the customer will behave in the launch of the product. Will they patronise it? If yes, are the features enough or they're still looking for something more? If no, why? What needs do they have that must be met so they can accept the product being launched?
 
 This method allows the company to produce a product for testing with minimal cost and better understand the customer's behaviour rather than conducting a market research such as survey that can all be hypothetical.
 
-![image](https://user-images.githubusercontent.com/110364984/187798708-df1c93dd-bb41-44ab-8aae-d2969d4956f0.png)
+I asked my kids and their Dad to do the spaghetti and marshmallow activity with me being the facilitator.  It was a great bonding experience and a good way to share with them my learning as they have their own realisation gained from the activity.  See pictures below.  Aren't they so serious? 😄
 
-During these past few weeks of learing, there is a crial voice in my head t elling me everything is difficult. It's not my specialty. I believe what it said but I counter it by veering away from the thought that it is difficult.  I reminded myself of the words of wisdom I always share with my kids when they are challenged with a task: _”If you think it’s difficult, the more that it will be difficult."_
+![MVP1](https://user-images.githubusercontent.com/112613788/190293747-28f31db8-eadd-4921-b9f3-652389846a25.jpg)  ![mvp2](https://user-images.githubusercontent.com/112613788/190293785-0c93ce59-dd45-4eec-ba82-4e1b5504f70a.jpg)
+
+
+During these past few weeks of learing, there is a critical voice in my head telling me everything is difficult. It's not my specialty. I believe what it said but I counter it by veering away from the thought that it is difficult.  I reminded myself of the words of wisdom I always share with my kids when they are challenged with a task: _”If you think it’s difficult, the more that it will be difficult."_
 
 The higlight of the day is knowing that I am not way behind as my religious update of the weekly activities and topics paid off. Without me knowing it, I have already came up with my project for submission.  I prefer to finish the weeks and complete all the learning and reflection prior handing it over.  My journal anyway is intended not only for the sake of the project but also for me to have something to look back should I get lost or stuck as I pursue my development journey.
 
