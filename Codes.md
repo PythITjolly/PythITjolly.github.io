@@ -49,7 +49,9 @@ _Convert a month name to a number of days._
   
 **Answer Code**
 
+![image](https://user-images.githubusercontent.com/112613788/190302502-a4913baf-2f6c-4dbd-9733-91e669a99b3d.png)
 
+.title() allows the program to accept or recgnise answers typed in small letters
 
 
 
