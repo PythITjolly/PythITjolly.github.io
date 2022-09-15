@@ -43,4 +43,4 @@ In spite of it all, I loved the activity as it gave me confirmation of my decisi
 
 
 
-###### [Week 1: Introduction with Scratch](PythITjolly.github.io/Week1)   | [Week 2: GitHub](https://PythITjolly.github.io/Week3)   | [Week 3: Python](https://PythITjolly.github.io/Week3)   |   [Week 5: Agile](https://PythITjolly.github.io/Week5)     |    [Week 6: Python_Koans](https://PythITjolly.github.io/Week6)    |   [Conclusion](https://PythITjolly.github.io/Conclusion)
+###### [Week 1: Introduction with Scratch](https://PythITjolly.github.io/Week1)   | [Week 2: GitHub](https://PythITjolly.github.io/Week2)   | [Week 3: Python](https://PythITjolly.github.io/Week3)   |   [Week 5: Agile](https://PythITjolly.github.io/Week5)     |    [Week 6: Python_Koans](https://PythITjolly.github.io/Week6)    |   [Conclusion](https://PythITjolly.github.io/Conclusion)
