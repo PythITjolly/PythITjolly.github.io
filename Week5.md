@@ -42,4 +42,4 @@ I was excited with the session but unfortunately I can't join the team at the Un
 
 
 
-###### [Week 1: Introduction with Scratch](PythITjolly.github.io/Week1)   | [Week 2: GitHub](https://PythITjolly.github.io/Week3)   | [Week 3: Python](https://PythITjolly.github.io/Week3)   |  [Week 4: Unexpect the Expected](https://PythITjolly.github.io/Week4)   |   [Week 6: Python_Koans](https://PythITjolly.github.io/Week6)   |   [Conclusion](https://PythITjolly.github.io/Conclusion)
+###### [Week 1: Introduction with Scratch](https://PythITjolly.github.io/Week1)   | [Week 2: GitHub](https://PythITjolly.github.io/Week2)   | [Week 3: Python](https://PythITjolly.github.io/Week3)   |  [Week 4: Unexpect the Expected](https://PythITjolly.github.io/Week4)   |   [Week 6: Python_Koans](https://PythITjolly.github.io/Week6)   |   [Conclusion](https://PythITjolly.github.io/Conclusion)
