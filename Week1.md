@@ -61,4 +61,4 @@ Encountering Scratch for the first time is a bit challenging. I followed the ins
 Programming Principles from [10 Coding Principles Every Programmer Should Learn](https://dzone.com/articles/10-coding-principles-every-programmer-should-learn)
 
 
-###### [Week 2: GitHub](https://PythITjolly.github.io/Week2)   | [Week 3: Python](https://PythITjolly.github.io/Week3)   | [Week 4: Unexpect The Expected](https://PythITjolly.github.io/Week4)   |  [Week 5: Agile](https://PythITjolly.github.io/Week5)   |  [Week 6: Python_Koans](https:/PythITjolly.github.io/Week6)    |   [Conclusion](https://PythITjolly.github.io/Conclusion)
+###### [Week 2: GitHub](https://PythITjolly.github.io/Week2)   | [Week 3: Python](https://PythITjolly.github.io/Week3)   | [Week 4: Unexpect The Expected](https://PythITjolly.github.io/Week4)   |  [Week 5: Agile](https://PythITjolly.github.io/Week5)   |  [Week 6: Python_Koans](https://PythITjolly.github.io/Week6)    |   [Conclusion](https://PythITjolly.github.io/Conclusion)
