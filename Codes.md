@@ -55,4 +55,4 @@ _Convert a month name to a number of days._
 
 
 
-##### [Homepage](PythITjolly.github.io)   | [About](https://PythITjolly.github.io/about)   | [Codes Used](https://PythITjolly1.github.io/Codes)   | [Research Repository](https://PythITjolly.github.io/journals)
+##### [Homepage](PythITjolly.github.io)   | [About](https://PythITjolly.github.io/about)   | [Codes Used](https://PythITjolly.github.io/Codes)   | [Research Repository](https://PythITjolly.github.io/journals)
