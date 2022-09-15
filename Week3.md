@@ -80,7 +80,7 @@ _*All you need is the desire and the willingness to learn_*
 
 #### Learning:
 
-As I read the module, I take note of some of the important built in data types definition and syntax.  I learned how to create a table in mark down. | at the beginning and end of each item in the column indicated that you're creating a table.  Second line should be used to indicate the alignment and I used the symbol | and colon : to indicate alignment. In this case, I chose the left align.
+As I read the module, I take note of some of the important built in data types definition and syntax.  I learned how to create a table in mark down. Putting **|** at the beginning and end of each item in the column indicates that you're creating a table.  Second line should be used to indicate the alignment and I used the symbol **|** with colon **:** to indicate alignment. In this case, I chose the left align.
 
 | **Markdown** |           **Preview**      |
 |:---          | :----                      |
