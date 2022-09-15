@@ -1,4 +1,4 @@
-# PythIT 𝓙𝓸𝓵𝓵𝔂 
+# 𝓗𝓸𝓶𝓮𝓹𝓪𝓰𝓮 
 
 ![github](https://user-images.githubusercontent.com/110364984/183364813-81904001-38d3-4f29-9378-a600f4e0581d.png)
 
