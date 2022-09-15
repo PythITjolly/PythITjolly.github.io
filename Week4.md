@@ -18,7 +18,7 @@ In today's corporate world, graph is widely used by big companies such as Google
 
 The process of capturing on electronic media or device the moving objects or images.  Below is an example:
 
-<iframe src="https://user-images.githubusercontent.com/112613788/190386338-b9536c18-8ac5-4660-8383-8bf5d7b6b998.mp4/embed" allowtransparency="true" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://user-images.githubusercontent.com/112613788/190386338-b9536c18-8ac5-4660-8383-8bf5d7b6b998.mp4/embed" allowtransparency="true" width="2372" height="1432" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
 **What is Programming?**
