@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/112613788/190386338-b9536c18-8ac5-4660
 
 **What is Programming?**
 
-The act or process of writing computer programs such as python, java, html and a whole lot more.
+The act or process of writing computation specific to the program desired.  It usually starts by plotting and building a computer program which is executable.  It involves a lot of tasks such as generating, profiling accuracy and resource consumption and implementation of algorithms, analysis and logic demonstration. 
 
 #### Learning:
 
