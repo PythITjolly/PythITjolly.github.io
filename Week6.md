@@ -4,6 +4,16 @@
 
 ## Week 6: **Python_Koans**
 
+### WHat is **_Python_Koans_**
+
+We have learned from Week 3 that **_Python_** is a high-level programming language with dynamic semantics.  So what is Python_koans?  It's not another programming language but instead an interactive tutorial that consists of different puzzles and exercises that are created intended to reinforce the learning acquired in the programming language construct.  You need to pass each tests to move on to the next level.
+
+<br>
+
+#### Learning:
+
+Art and logic can be combined together to create something new and relevant however; to be able to write programing codes, you need to understand what you want to achieve. Foresee the outcome you are expecting. It is only then that you will be able to understand the logic behind what you're doing.  The same in the pytho_koans process, one must understand not merely the function of the data types but also imagine the outcome that the creator wants so you can discover the logic on how each language is constructed.
+
 <br>
 
 ## 🆁🅴🅵🅻🅴🅲🆃🅸🅾🅽:
@@ -15,4 +25,4 @@ After reflecting, I appreciated the test-driven development we're doing with the
 
 
 
-###### [Week 1: Scratch](https://PythITjolly.github.io/Week1) [Week 2: GitHub](PythITjolly.github.io/Week2)   | [Week 3: Python](https://PythITjolly.github.io/Week3)   | [Week 4: Unexpect The Expected](https://PythITjolly.github.io/Week4)   |  [Week 5: Agile](https://PythITjolly.github.io/Week5)   |     [Conclusion](https://PythITjolly.github.io/Conclusion)
+###### [Week 1: Scratch](https://PythITjolly.github.io/Week1)    | [Week 2: GitHub](https://PythITjolly.github.io/Week2)   | [Week 3: Python](https://PythITjolly.github.io/Week3)   | [Week 4: Unexpect The Expected](https://PythITjolly.github.io/Week4)   |  [Week 5: Agile](https://PythITjolly.github.io/Week5)   |     [Conclusion](https://PythITjolly.github.io/Conclusion)
